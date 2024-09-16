@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Lingua inglesa',
+    'Como fala Mayron em ingles?',
+    'Mayron fernandão'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Matematica',
+    'Quantos socos o mayron aguenta?',
+    'mais de 20'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Matematica financeira',
+    'Quanto custa um mayron',
+    'Mais de 10'
 )
 
 criaCartao(
