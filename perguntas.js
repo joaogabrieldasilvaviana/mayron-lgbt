@@ -23,6 +23,41 @@ criaCartao(
 )
 criaCartao(
     'Piadocas',
+    'Qual pokemon favorito do mayron?',
+    'Pikachu'
+)
+criaCartao(
+    'Piadocas',
+    'QUal pokemon favorito do mayron?',
+    'Pikachu'
+)
+criaCartao(
+    'Piadocas',
+    'QUal pokemon favorito do mayron?',
+    'Pikachu'
+)
+criaCartao(
+    'Piadocas',
+    'QUal pokemon favorito do mayron?',
+    'Pikachu'
+)
+criaCartao(
+    'Piadocas',
+    'QUal pokemon favorito do mayron?',
+    'Pikachu'
+)
+criaCartao(
+    'Piadocas',
+    'QUal pokemon favorito do mayron?',
+    'Pikachu'
+)
+criaCartao(
+    'Piadocas',
+    'QUal pokemon favorito do mayron?',
+    'Pikachu'
+)
+criaCartao(
+    'Piadocas',
     'QUal pokemon favorito do mayron?',
     'Pikachu'
 )
