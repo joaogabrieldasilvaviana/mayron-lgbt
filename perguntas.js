@@ -27,9 +27,9 @@ criaCartao(
     'Pikachu'
 )
 criaCartao(
-    'Piadocas',
-    'QUal pokemon favorito do mayron?',
-    'Pikachu'
+    'Fisica',
+    'Qual o animal favorito de mayron? Qual sua cor?',
+    'Cavalo, MUITO preto muito mesmo'
 )
 criaCartao(
     'Projeto de vida',
