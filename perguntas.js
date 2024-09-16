@@ -32,32 +32,32 @@ criaCartao(
     'Pikachu'
 )
 criaCartao(
-    'Piadocas',
-    'QUal pokemon favorito do mayron?',
-    'Pikachu'
+    'Projeto de vida',
+    'Onde Mayron estava em 11 de setembro?',
+    'Junto com o Alexandre'
 )
 criaCartao(
-    'Piadocas',
-    'QUal pokemon favorito do mayron?',
-    'Pikachu'
+    'Geografia',
+    'Qual o alimento favorito do Mayron?',
+    'Tomate a milanesa'
 )
 criaCartao(
-    'Piadocas',
-    'QUal pokemon favorito do mayron?',
-    'Pikachu'
+    'Ed fisica 2',
+    'Quantos gols o Mayron faz nas sextas a noite?',
+    'Não sei'
 )
 criaCartao(
-    'Piadocas',
-    'QUal pokemon favorito do mayron?',
-    'Pikachu'
+    'Lingua portuguesa',
+    'Qual o verbo favorito do Mayron?',
+    'la ele'
 )
 criaCartao(
-    'Piadocas',
-    'QUal pokemon favorito do mayron?',
-    'Pikachu'
+    'Ed fisica',
+    'QUal o maior inimigo do Mayron?',
+    'Alexandre Glonek'
 )
 criaCartao(
-    'Piadocas',
-    'QUal pokemon favorito do mayron?',
-    'Pikachu'
+    'Sociologia',
+    'QUal o melhor amigo do Mayron?',
+    'Vitor Almeida'
 )
