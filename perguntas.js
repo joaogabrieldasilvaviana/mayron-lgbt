@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Lingua mayronesa',
+    'Como se diz oi em Mayronês?',
+    'Oi em ingles é POCHAPSKI (POXAPISQUI)'
 )
 criaCartao(
     'Piadocas',
