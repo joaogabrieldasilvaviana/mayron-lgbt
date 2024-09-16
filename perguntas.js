@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Lingua mayronesa',
     'Como se diz oi em Mayronês?',
-    'Oi em ingles é POCHAPSKI (POXAPISQUI)'
+    'Oi em mayronês é POCHAPSKI (POXAPISQUI)'
 )
 criaCartao(
     'Piadocas',
