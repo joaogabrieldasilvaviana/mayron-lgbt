@@ -17,7 +17,12 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua mayronesa',
-    'Como se diz oi em Mayronês?',
-    'Oi em Mayronês é pochapski (POXAPISQUI)'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
+criaCartao(
+    'Piadocas',
+    'QUal pokemon favorito do mayron?',
+    'Pikachu'
 )
